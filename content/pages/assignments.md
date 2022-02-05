@@ -8,13 +8,144 @@ Five written or computer-based problem sets will be assigned. These are designed
 
 NOTE: These assignments reference Athena, MIT's UNIX-based computing environment. OCW does not provide access to this environment.
 
-| SES # | TOPICS | PROBLEM SETS | SOLUTIONS | POINTS |
-| --- | --- | --- | --- | --- |
-| 1 | Sequence Search, Global Alignment, BLAST Statistics | [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset1_ques) | [Solutions to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset1_ans) | 19 |
-| 2 | BWT, Library Complexity, RNA-seq, Genome Assembly, Motifs, Multiple Hypothesis Testing |  {{< br >}}{{< br >}} [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset2_ques) {{< br >}}{{< br >}} [Problem Set 2 Files (ZIP)]({{< baseurl >}}/resources/pset_2_coding_portion) (This ZIP file contains: 4 .py files, 1 .index file, and .3 txt files) {{< br >}}{{< br >}}  | [Solutions to Problem Set 2 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit7_91js14_pset2_ans) | 31 |
-| 3 | Gibbs Sampler, RNA Secondary Structure, Protein Structure with PyRosetta, Connections |  {{< br >}}{{< br >}} [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset3_ques) {{< br >}}{{< br >}} [Problem Set 3 Files (ZIP)]({{< baseurl >}}/resources/problem_set_3) (This ZIP file contains: 3 .py files, 3 .fa files, and .1 txt file) {{< br >}}{{< br >}}  | [Solutions to Problem Set 3 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit7_91js14_pset3_ans) | 25 |
-| 4 | Bayesian Networks, Refining Protein Structures in PyRosetta, Mutual Information of Protein Residues |  {{< br >}}{{< br >}} [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset4_ques) {{< br >}}{{< br >}} [Problem Set 4 Files (ZIP)]({{< baseurl >}}/resources/problem_set_4) (This ZIP file contains: 3 .py files and 2 .fasta files) {{< br >}}{{< br >}}  | [Solutions to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset4_ans) | 21 |
-| 5 | Network Statistics, Chromatin Structure, Heritability, Association Testing |  {{< br >}}{{< br >}} [Problem Set 5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit7_91js14_pset5_ques) {{< br >}}{{< br >}} Problem Set 5 Files (ZIP) {{< br >}}{{< br >}}  | [Solutions to Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset5_ans) | 24 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Sequence Search, Global Alignment, BLAST Statistics
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset1_ques)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset1_ans)
+{{< tdclose >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+BWT, Library Complexity, RNA-seq, Genome Assembly, Motifs, Multiple Hypothesis Testing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset2_ques)
+
+[Problem Set 2 Files (ZIP)]({{< baseurl >}}/resources/pset_2_coding_portion) (This ZIP file contains: 4 .py files, 1 .index file, and .3 txt files)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 2 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit7_91js14_pset2_ans)
+{{< tdclose >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Gibbs Sampler, RNA Secondary Structure, Protein Structure with PyRosetta, Connections
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset3_ques)
+
+[Problem Set 3 Files (ZIP)]({{< baseurl >}}/resources/problem_set_3) (This ZIP file contains: 3 .py files, 3 .fa files, and .1 txt file)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 3 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit7_91js14_pset3_ans)
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Bayesian Networks, Refining Protein Structures in PyRosetta, Mutual Information of Protein Residues
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset4_ques)
+
+[Problem Set 4 Files (ZIP)]({{< baseurl >}}/resources/problem_set_4) (This ZIP file contains: 3 .py files and 2 .fasta files)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset4_ans)
+{{< tdclose >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Network Statistics, Chromatin Structure, Heritability, Association Testing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Problem Set 5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit7_91js14_pset5_ques)
+
+Problem Set 5 Files (ZIP)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit7_91js14_pset5_ans)
+{{< tdclose >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
