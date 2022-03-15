@@ -32,17 +32,298 @@ There are different prerequisites for the various versions of the course. See th
   
 {{< anchor "table" >}}{{< /anchor >}}
 
-| DEPARTMENT | COURSE  {{< br >}}NUMBER | LEVEL | PREREQUISITES | RECITATIONS | ASSIGNMENTS | PROJECT | GRADING |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 7.01 | 7.05 or 5.07 | 6.00 or 6.01 | 18.440 or 6.041 |
-| --- | --- | --- | --- |
-| Biology | 7.36 | Undergraduate | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | &nbsp; | Optional; review of lectures | &nbsp; | No | [Grading scheme 1](#grade) |
-| 7.91 | Graduate | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | &nbsp; | Optional; review of lectures | &nbsp; | Yes | [Grading scheme 2](#grade) |
-| Biological Engineering | 20.390 | Undergraduate | ![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg) | ![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg) | ![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg) | &nbsp; | Optional; review of lectures | &nbsp; | No | [Grading scheme 1](#grade) |
-| 20.490 | Graduate | ![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg) | ![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg) | ![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg) | &nbsp; | Optional; review of lectures | &nbsp; | Yes | [Grading scheme 2](#grade) |
-| Electrical Engineering and Computer Science | 6.802 | Undergraduate | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | &nbsp; | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | Optional; review of lectures | &nbsp; | No | [Grading scheme 1](#grade) |
-| 6.847 | Graduate | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | &nbsp; | ![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg) | Required; cover additional material related to artificial intelligence | Additional artificial intelligence problems will be assigned | Yes | [Grading scheme 3](#grade) |
-| Health Sciences and Technology | HST.506 | Graduate | ![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg) | &nbsp; | ![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg) | Optional; review of lectures | &nbsp; | Yes | [Grading scheme 2](#grade) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DEPARTMENT
+{{< thclose >}}
+{{< thopen >}}
+COURSE  
+NUMBER
+{{< thclose >}}
+{{< thopen >}}
+LEVEL
+{{< thclose >}}
+{{< thopen >}}
+PREREQUISITES
+{{< thclose >}}
+{{< thopen >}}
+RECITATIONS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PROJECT
+{{< thclose >}}
+{{< thopen >}}
+GRADING
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+7.01
+{{< thclose >}}
+{{< thopen >}}
+7.05 or 5.07
+{{< thclose >}}
+{{< thopen >}}
+6.00 or 6.01
+{{< thclose >}}
+{{< thopen >}}
+18.440 or 6.041
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Biology
+{{< tdclose >}}
+{{< tdopen >}}
+7.36
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Optional; review of lectures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+No
+{{< tdclose >}}
+{{< tdopen >}}
+[Grading scheme 1](#grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7.91
+{{< tdclose >}}
+{{< tdopen >}}
+Graduate
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Optional; review of lectures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+{{< tdopen >}}
+[Grading scheme 2](#grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Biological Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+20.390
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Optional; review of lectures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+No
+{{< tdclose >}}
+{{< tdopen >}}
+[Grading scheme 1](#grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20.490
+{{< tdclose >}}
+{{< tdopen >}}
+Graduate
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Optional; review of lectures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+{{< tdopen >}}
+[Grading scheme 2](#grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Electrical Engineering and Computer Science
+{{< tdclose >}}
+{{< tdopen >}}
+6.802
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+Optional; review of lectures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+No
+{{< tdclose >}}
+{{< tdopen >}}
+[Grading scheme 1](#grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6.847
+{{< tdclose >}}
+{{< tdopen >}}
+Graduate
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree_2.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree_2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+Required; cover additional material related to artificial intelligence
+{{< tdclose >}}
+{{< tdopen >}}
+Additional artificial intelligence problems will be assigned
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+{{< tdopen >}}
+[Grading scheme 3](#grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Health Sciences and Technology
+{{< tdclose >}}
+{{< tdopen >}}
+HST.506
+{{< tdclose >}}
+{{< tdopen >}}
+Graduate
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+![Agree.jpg](/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/syllabus/Agree.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+Optional; review of lectures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Yes
+{{< tdclose >}}
+{{< tdopen >}}
+[Grading scheme 2](#grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "textbook" >}}{{< /anchor >}}Textbook
 ------------------------------------------------
@@ -114,27 +395,162 @@ The different versions of this course have different grading schemes. See the [t
 
 ### Grading Scheme 1
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets (out of 100 points) | 36 |
-| Exams | 62 |
-| Peer Review | 2 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets (out of 100 points)
+{{< tdclose >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams
+{{< tdclose >}}
+{{< tdopen >}}
+62
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Peer Review
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Grading Scheme 2
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets (out of 100 points) | 30 |
-| Exams | 48 |
-| Project | 20 |
-| Peer Review | 2 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets (out of 100 points)
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams
+{{< tdclose >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Peer Review
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Grading Scheme 3
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets (out of 100 points) | 25 |
-| Extra Artificial Intelligence Problems | 5 |
-| Exam | 48 |
-| Project | 20 |
-| Peer Review | 2
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets (out of 100 points)
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Extra Artificial Intelligence Problems
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam
+{{< tdclose >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Peer Review
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
