@@ -123,7 +123,7 @@ R10
 R11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Review of topics covered in Lecture 18 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit7_91js14_rec_4-23-14)
+[Review of topics covered in Lecture 18 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit7_91js14_rec_4-23-14)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +132,7 @@ R11
 R12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Review of topics covered in Lectures 19 and 20 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit7_91js14_rec_4-30-14)
+[Review of topics covered in Lectures 19 and 20 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit7_91js14_rec_4-30-14)
 {{< tdclose >}}
 
 {{< trclose >}}

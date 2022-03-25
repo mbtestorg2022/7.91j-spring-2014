@@ -129,7 +129,7 @@ DG
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[RNA-sequence Analysis: Expression, Isoforms (PDF - 2.9MB)]({{< baseurl >}}/resources/mit7_91js14_lecture8)
+[RNA-sequence Analysis: Expression, Isoforms (PDF - 2.9MB)]({{< baseurl >}}/resources/mit7_91js14_lecture8)
 {{< tdclose >}}
 {{< tdopen >}}
 DG

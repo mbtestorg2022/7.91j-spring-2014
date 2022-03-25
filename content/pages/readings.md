@@ -187,7 +187,7 @@ Wang, Zhong, Mark Gerstein, et al. "[RNA–Seq: a Revolutionary Tool for Transcr
 
 Shalek, Alex K., Rahul Satija, et al. "[Single–cell Transcriptomics Reveals Bimodality in Expression and Splicing in Immune Cells](http://dx.doi.org/10.1038/nature12172)." _Nature_ 498 (2013): 236–40.
 
-Smith, Lindsay I. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Tutorial on Principal Components Analysis." (PDF)](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) February 26, 2002.
+Smith, Lindsay I. ["A Tutorial on Principal Components Analysis." (PDF)](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) February 26, 2002.
 
 
 {{< tdclose >}}
