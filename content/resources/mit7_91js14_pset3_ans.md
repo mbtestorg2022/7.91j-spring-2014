@@ -4,6 +4,7 @@ description: This file contains the information regarding solutions- gibbs Sampl
   RNA secondary structure, protein structure with pyRosetta, connections.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/5e4e88f6775836fb2a005efc079bedd3_MIT7_91JS14_pset3_ans.pdf
 file_type: application/pdf
+parent_uid: 215564a7-c7bc-a140-74c5-d9096008982b
 resourcetype: Document
 title: Problem Set 3:Solutions- Gibbs Sampler, RNA secondary structure, Protein Structure
   with PyRosetta, Connections

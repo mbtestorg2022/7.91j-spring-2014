@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8c3602a7-ebcc-fb72-84af-df25e708dd52
 resourcetype: Image
 title: 7-91_classroom-2.jpg
 uid: 274b4168-2a63-d464-e0d1-a55898146713
